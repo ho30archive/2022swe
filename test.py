@@ -4,4 +4,3 @@ def test(a, b):
 		return True
 	else:
 		return False
-e
